@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Sv88 - sv88.gift - Sân Chơi Đẳng Cấp Châu Âu Với Đa Dạng Loại Hình Cá Cược Bóng Đá
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Sv88 - Nhà cái chính thức cá cược bóng đá, cá độ thể thao trực tuyến. Chơi đa dạng cá cược online: bắn cá, casino, xóc đĩa, tài xỉu...
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: Số 235/15A Đường Nơ Trang Long, Phường 11, Quận Bình Thạnh, Thành phố Hồ Chí Minh. 
 
-   This project is under active development.
+Phone: 0589242188. 
 
-Contents
---------
+Email: support@sv88gift.com. 
 
-.. toctree::
+Website: https://sv88.gift/
 
-   usage
-   api
+Author: https://sv88.gifts/author/tung-phat
+
+#sv88 #sv88gift #nhacaisv88 #trangchusv88 #linksv88
