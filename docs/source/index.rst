@@ -1,7 +1,7 @@
 Sv88 - sv88.gift - Sân Chơi Đẳng Cấp Châu Âu Với Đa Dạng Loại Hình Cá Cược Bóng Đá
 ===================================
 
-Sv88 - Nhà cái chính thức cá cược bóng đá, cá độ thể thao trực tuyến. Chơi đa dạng cá cược online: bắn cá, casino, xóc đĩa, tài xỉu...
+`Sv88 <https://sv88.gift/>`_ - Nhà cái chính thức cá cược bóng đá, cá độ thể thao trực tuyến. Chơi đa dạng cá cược online: bắn cá, casino, xóc đĩa, tài xỉu...
 
 Thông tin liên hệ: 
 
